@@ -2,9 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
-  <img src="<div align="center">
   <img src="https://i.pinimg.com/736x/8f/5f/14/8f5f14eaebc083eb5ad9706f0ca35094.jpg"/>
-</div>"/>
 </div>
 
 <div align="center">
