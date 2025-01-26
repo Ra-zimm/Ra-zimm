@@ -28,7 +28,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra-zimm&show_icons=true&locale=en&layout=compact" alt="ra-zimm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ra-zimm&" alt="ra-zimm" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ra-zimm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
  
 
 
