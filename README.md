@@ -28,9 +28,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra-zimm&show_icons=true&locale=en&layout=compact" alt="ra-zimm" /></p>
 
-<br clear="both">
+ 
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
  
