@@ -9,9 +9,9 @@
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
 
-- 🌱 I’m currently learning **JDBC,Servelts,Springboot**
+- 🌱 I’m currently learning **JDBC,Servelts,Hibernate,Springboot**
 
-- 💬 Ask me about **Java,SQL,Springboot,Javascript**
+- 💬 Ask me about **Java,SQL,Hibernate,Springboot,Javascript**
 
 - 📫 How to reach me **razmrz666@gmail.com**
 
