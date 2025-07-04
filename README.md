@@ -9,9 +9,9 @@
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
 
-- 🌱 I’m currently learning **JDBC,Servelts,Hibernate,Springboot**
+- 🌱 I’m currently learning **JDBC,Servelts,Hibernate,Mongodb,Node js,Express js,fastify**
 
-- 💬 Ask me about **Java,SQL,Hibernate,Springboot,Javascript**
+- 💬 Ask me about **Java,SQL,Hibernate,Javascript,Mongodb,Express js,fastify**
 
 - 📫 How to reach me **razmrz666@gmail.com**
 
