@@ -88,22 +88,37 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra-zimm&show_icons=true&locale=en&layout=compact" alt="ra-zimm" /></p>
 
  
-<div align="center">
- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</div>
+
+<!-- Typing Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=console.log('Hello+World');Fastify+%7C+Node.js+%7C+TypeORM;Code+%7C+Commit+%7C+Repeat" alt="Typing Animation" />
+</h3>
+
+---
+
+<!-- Matrix Rain Style Contribution Graph -->
+<h3 align="center">🌱 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=matrix" alt="Contribution Graph" />
+</p>
+
+---
+
+<!-- GitHub Stats & Streaks -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- Random Dev Quote -->
+<h3 align="center">💡 Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
 
 
 
