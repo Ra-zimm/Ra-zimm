@@ -25,6 +25,7 @@
 
  
  
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Existing -->
@@ -61,7 +62,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>&nbsp;
   <a href="https://fastify.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://fastify.dev/img/logos/fastify-black.png" alt="fastify" width="80" height="40"/> 
+    <img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-landscape-outlined.svg" alt="fastify" width="80" height="40"/> 
   </a>&nbsp;
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
@@ -79,6 +80,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
 </p>
+
+
 
 
 
