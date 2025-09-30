@@ -107,8 +107,8 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ra-zimm&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ra-zimm&theme=tokyonight&hide_border=false" height="150" />
 </p>
 
 ---
