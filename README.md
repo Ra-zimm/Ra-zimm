@@ -19,10 +19,8 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Rain" width="600"/>
 </p>
 
-<!-- Coder at work GIF -->
-<p>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coder at work" width="600"/>
-</p>
+ 
+ 
 
 <!-- Retro hacker terminal style -->
 <p>
@@ -31,16 +29,12 @@
 
 <!-- Unique Fun Stats Section -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ra-zimm&style=flat-square&color=0e75b6" alt="Profile Views" />
   &nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula" alt="Contribution Graph" />
 </p>
 
-<!-- Cool Programming Quote -->
-<p>
-  <img src="https://c.tenor.com/7UGr1Yb1jWAAAAAd/programmer-coding.gif" alt="Coding Fun" width="600"/>
-</p>
-
+ 
 </div>
 
 
