@@ -31,7 +31,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ra-zimm&style=flat-square&color=0e75b6" alt="Profile Views" />
   &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ra-zimm&theme=dracula" alt="Contribution Graph" />
 </p>
 
  
