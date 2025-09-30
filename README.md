@@ -1,13 +1,37 @@
-<h1 align="center">Hi 👋, I'm Rasim Musthafa</h1>
-<h3 align="center">Full Stack Developer</h3>
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/8f/5f/14/8f5f14eaebc083eb5ad9706f0ca35094.jpg"/>
-</div>
+<h1 align="center">Hey 👋, I'm Rasim Musthafa</h1>
+<h3 align="center">🚀 Full Stack Developer | Fastify ⚡ Node.js ⚡ TypeORM</h3>
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
-</div>
+---
+
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Apps;Crafting+APIs+with+Fastify;Loving+Postgres+%26+TypeORM;Always+Learning+%26+Shipping+Code" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Fun Coder Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino coding gif" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false" height="160" />
+</p>
+
+---
+
+<!-- Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev quote"/>
+</p>
+```
+
 
 - 🌱 I have knowledge on **JDBC,Servelts,Hibernate,Mongodb,Node js,Express js,fastify,TypeORM,Postman**
 
