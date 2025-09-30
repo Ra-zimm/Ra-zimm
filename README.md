@@ -134,7 +134,7 @@
 
 <!-- Dynamic Language Pie Chart -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=6&theme=radical&layout=compact&hide=html,css" alt="Top Languages Pie Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-zimm&langs_count=6&theme=radical&layout=compact&hide=html,css" alt="Top Languages Pie Chart" />
 </p>
 
 </div>
