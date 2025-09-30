@@ -11,18 +11,38 @@
 
 ---
 
-<!-- Fun Coder Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino coding gif" />
+<!-- Fun Coder Section -->
+<div align="center">
+
+<!-- Matrix-style coding animation -->
+<p>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Rain" width="600"/>
 </p>
 
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false" height="160" />
+<!-- Coder at work GIF -->
+<p>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coder at work" width="600"/>
 </p>
+
+<!-- Retro hacker terminal style -->
+<p>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Terminal coder" width="600"/>
+</p>
+
+<!-- Unique Fun Stats Section -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0e75b6" alt="Profile Views" />
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula" alt="Contribution Graph" />
+</p>
+
+<!-- Cool Programming Quote -->
+<p>
+  <img src="https://c.tenor.com/7UGr1Yb1jWAAAAAd/programmer-coding.gif" alt="Coding Fun" width="600"/>
+</p>
+
+</div>
+
 
 ---
 
