@@ -119,7 +119,26 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra-zimm&show_icons=true&locale=en&layout=compact" alt="ra-zimm" /></p>
+<!-- Fun Top Languages Section -->
+<div align="center">
+
+<!-- Mini Language & Framework Badges -->
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TypeORM-4B0082?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
+</p>
+
+<!-- Dynamic Language Pie Chart -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=6&theme=radical&layout=compact&hide=html,css" alt="Top Languages Pie Chart" />
+</p>
+
+</div>
+
 
  
 
