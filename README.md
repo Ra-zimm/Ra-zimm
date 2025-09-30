@@ -40,11 +40,7 @@
 
 ---
 
-<!-- Random Dev Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev quote"/>
-</p>
-```
+ 
 
 
 - 🌱 I have knowledge on **JDBC,Servelts,Hibernate,Mongodb,Node js,Express js,fastify,TypeORM,Postman**
