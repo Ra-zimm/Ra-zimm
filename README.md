@@ -49,7 +49,7 @@
 
 - 📫 How to reach me **razmrz666@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HQ3dRHMq87rm_hrWv0lT5dZhnhOwLwPw/view?usp=drivesdk](https://drive.google.com/file/d/1HQ3dRHMq87rm_hrWv0lT5dZhnhOwLwPw/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1od7ka9kFfIHob88E18t9vore_PfkOjmF/view?usp=drivesdk]( https://drive.google.com/file/d/1od7ka9kFfIHob88E18t9vore_PfkOjmF/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
