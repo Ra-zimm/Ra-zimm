@@ -4,54 +4,80 @@
 
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:0d1117,100:00b4d8&height=200&section=header&text=Rasim%20Musthafa&fontSize=52&fontColor=00b4d8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20API%20Architect%20%7C%20Backend%20Specialist&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:00b4d8&height=200&section=header&text=Rasim%20Musthafa&fontSize=52&fontColor=00b4d8&fontAlignY=38&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Microservices%20Enthusiast&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
 
 </div>
 
----
-
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=const+dev+%3D+new+RasimMusthafa();+%2F%2F+online;Building+blazing-fast+APIs+with+Fastify+%E2%9A%A1;Turning+coffee+%E2%98%95+into+scalable+systems;Node.js+%7C+TypeORM+%7C+PostgreSQL+enthusiast;Clean+code+is+not+optional%2C+it%27s+a+lifestyle." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=00B4D8&center=true&vCenter=true&width=750&lines=const+dev+%3D+new+RasimMusthafa();+%2F%2F+online+%F0%9F%9F%A2;Building+blazing-fast+APIs+with+Fastify+%E2%9A%A1;JWT+Auth+%7C+TypeORM+%7C+PostgreSQL+%7C+Microservices;Clean+code+is+not+optional+%E2%80%94+it%27s+a+standard.;Currently+%40+SHINR+Technologies+%F0%9F%9A%80" alt="Typing Animation" />
 
 </div>
 
 <br/>
 
-<!-- About Me Terminal Block -->
 ```ts
-// 📍 Payyanur, Kerala, India
+// 📍 Kannur, Kerala, India
 const rasim: Developer = {
-  name:       "Rasim Musthafa",
-  alias:      "Ra-zimm",
-  role:       "Full Stack Developer",
-  focus:      ["Backend APIs", "Scalable Architecture", "Database Design"],
+  name:        "Rasim Musthafa",
+  alias:       "Ra-zimm",
+  role:        "Backend Developer",
+  company:     "SHINR Technologies Pvt. Ltd.",
+  focus:       ["Microservices", "REST APIs", "Auth Systems", "DB Design"],
   stack: {
-    primary:  ["Node.js", "Fastify", "TypeScript", "TypeORM", "PostgreSQL"],
-    familiar: ["Express.js", "Java", "Spring Boot", "MongoDB", "Hibernate"],
-    tools:    ["Postman", "DBeaver", "Nginx", "Git", "JDBC", "Servlets"],
+    core:      ["Node.js", "Fastify", "TypeScript", "TypeORM", "PostgreSQL"],
+    auth:      ["JWT", "Jose", "OTP Auth", "Token Rotation", "bcrypt"],
+    tools:     ["Postman", "Swagger/OpenAPI", "Git", "Vercel", "Joi"],
+    other:     ["Express.js", "React.js", "MongoDB", "Java", "Spring Boot"],
   },
-  currentlyLearning: "Microservices & System Design",
-  openTo:     "Exciting backend opportunities",
-  contact:    "razmrz666@gmail.com",
+  education:   "B.E. Electronics & Communication — AJIET Mangalore (2024)",
+  certified:   ["Java Full Stack — JSpiders Bangalore", "Computer Networking — Great Learning"],
+  contact:     "razmrz666@gmail.com",
 };
 ```
 
 ---
 
-## ⚡ What I Build
+## 💼 Experience
 
 <div align="center">
 
-| 🔧 Domain | 🛠 Tools | 💡 Strength |
-|-----------|----------|-------------|
-| REST APIs | Fastify · Express | Speed & Schema Validation |
-| Databases | PostgreSQL · TypeORM · MongoDB | Complex Queries & Relations |
-| Server Config | Nginx · Node.js | Reverse Proxy & Performance |
-| API Testing | Postman | Contract Testing & Automation |
-| Java Backend | Spring Boot · Hibernate · JDBC | Enterprise ORM Patterns |
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🏢  Backend Developer — SHINR Technologies Pvt. Ltd.              │
+│  📅  April 2025 – Present  |  📍 Kannur, Kerala                    │
+├─────────────────────────────────────────────────────────────────────┤
+│  ✦  Built scalable user management microservice (Fastify + TS)      │
+│  ✦  OTP-based auth with JWT — access, refresh & OTP tokens         │
+│  ✦  TypeORM models with relations, indexes & migrations             │
+│  ✦  Integrated Ola Maps API for geocoding & autocomplete            │
+│  ✦  OpenAPI / Swagger 3.0 documentation & Joi schema validation     │
+│  ✦  Modular architecture with connection pooling + env configs      │
+└─────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────┐
+│  🔬  Intern — Tech GrayLogix                                        │
+│  📅  Aug 2023 – Sep 2023  |  📍 Mangalore, Karnataka               │
+├─────────────────────────────────────────────────────────────────────┤
+│  ✦  Researched IoT & embedded systems architecture                  │
+│  ✦  Explored hardware–software interaction for device control       │
+│  ✦  Analysed IoT security, reliability & interoperability           │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+| Project | Tech | Highlight |
+|--------|------|-----------|
+| 🚦 **Real-Time Traffic Sign Detection** | Raspberry Pi · OpenCV · TensorFlow Lite · CNN | Edge-deployed classifier with PWM motor speed control |
+| ⚡ **Low Power Arithmetic Circuit** | Tanner EDA · 90nm CMOS | 7.5%+ PDP reduction vs XOR/XNOR designs |
+| 🔐 **ANU-II Block Cipher on FPGA** | FPGA · VHDL | Lightweight encryption for IoT & RFID systems |
 
 </div>
 
@@ -61,33 +87,49 @@ const rasim: Developer = {
 
 <div align="center">
 
-<!-- Core -->
+**Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0f0f0f)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- Frameworks -->
+**Frameworks & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=00b4d8)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-<!-- Databases -->
+**Databases & ORM**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-<!-- ORM / Tools -->
-![TypeORM](https://img.shields.io/badge/TypeORM-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-4B0082?style=for-the-badge&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Auth & Security**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Jose](https://img.shields.io/badge/Jose-00b4d8?style=for-the-badge&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-FF6C37?style=for-the-badge&logoColor=white)
+
+**Tools & DevOps**
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-<!-- Frontend -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+**Embedded & Hardware**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-0075C2?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -109,16 +151,6 @@ const rasim: Developer = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ra-zimm&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -129,12 +161,35 @@ const rasim: Developer = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Ra-zimm&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏛 Issuer | 📅 Year |
+|---------------|----------|--------|
+| Java Full Stack Development | JSpiders, Bangalore | Aug 2024 – Feb 2025 |
+| Basics of Computer Networking | Great Learning | 2023 |
+| Arduino vs Raspberry Pi | Great Learning | 2023 |
+
+</div>
+
+---
+
 ## 💬 Dev Philosophy
 
 <div align="center">
 
-> *"A good API is not the one that does many things —*
-> *it's the one that does the right things, fast."*
+> *"A well-designed API is invisible — it just works."*
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
@@ -153,7 +208,7 @@ const rasim: Developer = {
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ra-zimm&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" />
+![Profile Views](https://komarev.com/ghpvc/?username=Ra-zimm&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)
 
 </div>
 
@@ -161,6 +216,6 @@ const rasim: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer" />
 
 </div>
