@@ -145,17 +145,7 @@ const rasim: Developer = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ra-zimm&theme=dark&hide_border=true&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=8b949e&dates=8b949e&background=0d1117&stroke=1a0000&currStreakNum=ffffff&sideNums=ffffff" height="160" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ra-zimm&theme=github-compact&hide_border=true&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&area_color=e63946" />
+<img src="https://streak-stats.demolab.com?user=Ra-zimm&theme=dark&hide_border=true&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=8b949e&dates=8b949e&background=0d1117&stroke=e63946&currStreakNum=ffffff&sideNums=ffffff" height="160" />
 
 </div>
 
@@ -163,21 +153,18 @@ const rasim: Developer = {
 
 ## 🏆 Achievements
 
-<!-- Trophy service can be blank for newer accounts — using stat badges instead -->
 <div align="center">
 
-![](https://img.shields.io/badge/🏆%20Role-Backend%20Developer-e63946?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/🏢%20Company-SHINR%20Technologies-e63946?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/📍%20Location-Kannur%2C%20Kerala-e63946?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/💼%20Role-Backend%20Developer-e63946?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/📍%20Based%20In-Kannur%2C%20Kerala-e63946?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/🎓%20Degree-B.E.%20ECE%202024-e63946?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/⚡%20Specialty-Fastify%20%2B%20TypeORM-e63946?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/🔐%20Auth-JWT%20%2B%20OTP%20Systems-e63946?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/🗄%20Database-PostgreSQL%20Expert-e63946?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🗄%20Database-PostgreSQL-e63946?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/📄%20Docs-OpenAPI%20%2F%20Swagger-e63946?style=for-the-badge&labelColor=0d1117)
 
 </div>
-
-> ⚠️ **Note on GitHub Trophies:** The `github-profile-trophy` service only renders trophies once your account has enough public activity (commits, stars, PRs, followers). Keep pushing — they'll show up as your profile grows! 🚀
 
 ---
 
