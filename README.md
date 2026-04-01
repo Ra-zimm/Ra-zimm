@@ -1,184 +1,166 @@
+<!-- ============================================================
+     RASIM MUSTHAFA — GitHub Profile README
+     ============================================================ -->
 
-<h1 align="center">Hey 👋, I'm Rasim Musthafa</h1>
-<h3 align="center">🚀 Full Stack Developer | Fastify ⚡ Node.js ⚡ TypeORM</h3>
+<div align="center">
+
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:0d1117,100:00b4d8&height=200&section=header&text=Rasim%20Musthafa&fontSize=52&fontColor=00b4d8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20API%20Architect%20%7C%20Backend%20Specialist&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
+
+</div>
 
 ---
+
+<div align="center">
 
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Apps;Crafting+APIs+with+Fastify;Loving+Postgres+%26+TypeORM;Always+Learning+%26+Shipping+Code" alt="Typing SVG" />
-</p>
-
----
-
-<!-- Fun Coder Section -->
-<div align="center">
-
-<!-- Matrix-style coding animation -->
-<p>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Matrix Rain" width="600"/>
-</p>
-
- 
- 
-
-<!-- Retro hacker terminal style -->
-<p>
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Terminal coder" width="600"/>
-</p>
-
-<!-- Unique Fun Stats Section -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Ra-zimm&style=flat-square&color=0e75b6" alt="Profile Views" />
-  &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ra-zimm&theme=dracula" alt="Contribution Graph" />
-</p>
-
- 
-</div>
-
-
----
-
- 
-
-
-- 🌱 I have knowledge on **JDBC,Servelts,Hibernate,Mongodb,Node js,Express js,fastify,TypeORM,Postman**
-
-- 💬 Ask me about **Java,SQL,Hibernate,Javascript,Mongodb,Express js,fastify**
-
-- 📫 How to reach me **razmrz666@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1od7ka9kFfIHob88E18t9vore_PfkOjmF/view?usp=drivesdk]( https://drive.google.com/file/d/1od7ka9kFfIHob88E18t9vore_PfkOjmF/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rasim musthafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasim musthafa" height="30" width="40" /></a>
-<a href="https://instagram.com/ra_zm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ra_zm_" height="30" width="40" /></a>
-</p>
-
- 
- 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Existing -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a>&nbsp;
-
-  <!-- Added -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://fastify.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-landscape-outlined.svg" alt="fastify" width="80" height="40"/> 
-  </a>&nbsp;
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://typeorm.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="dbeaver" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
-  </a>&nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-</p>
-
-
-
-
-
-<!-- Fun Top Languages Section -->
-<div align="center">
-
-<!-- Mini Language & Framework Badges -->
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/TypeORM-4B0082?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
-</p>
-
-<!-- Dynamic Language Pie Chart -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-zimm&langs_count=6&theme=radical&layout=compact&hide=html,css" alt="Top Languages Pie Chart" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=const+dev+%3D+new+RasimMusthafa();+%2F%2F+online;Building+blazing-fast+APIs+with+Fastify+%E2%9A%A1;Turning+coffee+%E2%98%95+into+scalable+systems;Node.js+%7C+TypeORM+%7C+PostgreSQL+enthusiast;Clean+code+is+not+optional%2C+it%27s+a+lifestyle." alt="Typing Animation" />
 
 </div>
 
+<br/>
 
- 
-
-
-<!-- Animated Typing Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hello+World!;Full+Stack+Developer;Fastify+%7C+Node.js+%7C+TypeORM;Code.+Commit.+Repeat." alt="Typing SVG" />
-</h1>
-
----
-
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
-</p>
-
----
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ra-zimm&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ra-zimm&theme=tokyonight&hide_border=false" height="150" />
-</p>
+<!-- About Me Terminal Block -->
+```ts
+// 📍 Payyanur, Kerala, India
+const rasim: Developer = {
+  name:       "Rasim Musthafa",
+  alias:      "Ra-zimm",
+  role:       "Full Stack Developer",
+  focus:      ["Backend APIs", "Scalable Architecture", "Database Design"],
+  stack: {
+    primary:  ["Node.js", "Fastify", "TypeScript", "TypeORM", "PostgreSQL"],
+    familiar: ["Express.js", "Java", "Spring Boot", "MongoDB", "Hibernate"],
+    tools:    ["Postman", "DBeaver", "Nginx", "Git", "JDBC", "Servlets"],
+  },
+  currentlyLearning: "Microservices & System Design",
+  openTo:     "Exciting backend opportunities",
+  contact:    "razmrz666@gmail.com",
+};
+```
 
 ---
 
-<!-- Fun Quote -->
-<h3 align="center">💡 Dev Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote"/>
-</p>
+## ⚡ What I Build
 
+<div align="center">
 
+| 🔧 Domain | 🛠 Tools | 💡 Strength |
+|-----------|----------|-------------|
+| REST APIs | Fastify · Express | Speed & Schema Validation |
+| Databases | PostgreSQL · TypeORM · MongoDB | Complex Queries & Relations |
+| Server Config | Nginx · Node.js | Reverse Proxy & Performance |
+| API Testing | Postman | Contract Testing & Automation |
+| Java Backend | Spring Boot · Hibernate · JDBC | Enterprise ORM Patterns |
 
+</div>
 
+---
 
+## 🧰 Tech Arsenal
 
- 
+<div align="center">
 
+<!-- Core -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0f0f0f)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+<!-- Frameworks -->
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=00b4d8)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
+<!-- Databases -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+<!-- ORM / Tools -->
+![TypeORM](https://img.shields.io/badge/TypeORM-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+<!-- Frontend -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ra-zimm&show_icons=true&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&ring_color=00b4d8&include_all_commits=true&count_private=true" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-zimm&layout=compact&theme=github_dark&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&langs_count=7&hide=html,css" height="170" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ra-zimm&theme=github-dark-blue&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=8b949e&dates=8b949e" height="160" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ra-zimm&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ra-zimm&theme=github-compact&hide_border=true&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=00b4d8" />
+
+</div>
+
+---
+
+## 💬 Dev Philosophy
+
+<div align="center">
+
+> *"A good API is not the one that does many things —*
+> *it's the one that does the right things, fast."*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rasim%20Musthafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasim-musthafa)
+[![Instagram](https://img.shields.io/badge/Instagram-@ra__zm__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ra_zm_)
+[![Gmail](https://img.shields.io/badge/Gmail-razmrz666@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razmrz666@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-00b4d8?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1od7ka9kFfIHob88E18t9vore_PfkOjmF/view?usp=drivesdk)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ra-zimm&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer&reversal=false" />
+
+</div>
