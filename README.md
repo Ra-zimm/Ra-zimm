@@ -21,7 +21,7 @@
 const rasim: Developer = {
   name:        "Rasim Musthafa",
   alias:       "Ra-zimm",
-  role:        "Backend Developer",
+  role:        "Full stack Developer",
   company:     "SHINR Technologies Pvt. Ltd.",
   focus:       ["Microservices", "REST APIs", "Auth Systems", "DB Design"],
   stack: {
