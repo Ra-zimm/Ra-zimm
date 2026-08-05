@@ -45,7 +45,7 @@ const rasim: Developer = {
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │  🏢  Backend Developer — SHINR Technologies Pvt. Ltd.              │
-│  📅  April 2025 – Present  |  📍 Kannur, Kerala                    │
+│  📅  April 2024 – May 2026  |  📍 Kannur, Kerala                    │
 ├─────────────────────────────────────────────────────────────────────┤
 │  ✦  Built scalable user management microservice (Fastify + TS)      │
 │  ✦  OTP-based auth with JWT — access, refresh & OTP tokens         │
